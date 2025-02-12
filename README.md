@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 style="text-align: center;">Hi There, I'm Vinicius Cruz.🤝</h1>
 
-<!--
-**kruzvinicius/kruzvinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### "Learn, grow, and evolve: this is my mission."
+- "I am currently enrolled in a technical course in Information Technology Management and also learning programming."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning:
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+### Languages
+- Portuguese
+- English
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruzvinicius&show_icons=true&theme=dark)
