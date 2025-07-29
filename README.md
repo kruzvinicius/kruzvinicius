@@ -5,7 +5,7 @@
 - "I am currently enrolled in a technical course in Information Technology Management and also learning programming."
 
 ### Learning:
-[![Java Badge](https://img.shields.io/badge/Java-Programming-orange?logo=java)](https://www.java.com)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Languages
 - Portuguese
