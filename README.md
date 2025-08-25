@@ -1,14 +1,21 @@
 <h1 style="text-align: center;">Hi There, I'm Vinicius Cruz.🤝</h1>
 
 
-### "Learn, grow, and evolve: this is my mission."
-- "I am currently enrolled in a technical course in Information Technology Management and also learning programming."
+### "Discipline first, legacy forever."
+🎓 Student of **Software Engineering**
 
-### Learning:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🚀 What I'm learning right now  
+- Software Engineering fundamentals  
+- Java for backend development  
 
-### Languages
-- Portuguese
+## 🛠️ My Toolbox
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+
+          
+
+
+### Languages I speak
+- Portuguese (native)
 - English
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruzvinicius&show_icons=true&theme=dark)
