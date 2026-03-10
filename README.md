@@ -42,19 +42,3 @@ I am a **Backend Developer** and **Software Engineering student** specializing i
 
 ---
 
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kruzvinicius&theme=bear&show_icons=true&v=1)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kruzvinicius&theme=bear&v=1)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzvinicius&theme=bear&layout=compact&v=1)
-
----
-
-### 🔝 Top Contributed Repo
-![Repo](https://github-contributor-stats.vercel.app/api?username=kruzvinicius&limit=5&theme=bear&combine_all_yearly_contributions=true&v=1)
-
----
-
-![Visitors](https://visitcount.itsvg.in/api?id=kruzvinicius&icon=2&color=4&v=1)
