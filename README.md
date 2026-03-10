@@ -44,26 +44,17 @@ I am a **Backend Developer** and **Software Engineering student** specializing i
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kruzvinicius&theme=bear&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="170px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kruzvinicius&theme=bear&hide_border=false" alt="GitHub Streak" height="170px" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=kruzvinicius&theme=bear&show_icons=true&v=1)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruzvinicius&theme=bear&hide_border=false&layout=compact" alt="Top Languages" height="170px" />
-</p>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=kruzvinicius&theme=bear&v=1)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzvinicius&theme=bear&layout=compact&v=1)
 
 ---
 
 ### 🔝 Top Contributed Repo
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kruzvinicius&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+![Repo](https://github-contributor-stats.vercel.app/api?username=kruzvinicius&limit=5&theme=bear&combine_all_yearly_contributions=true&v=1)
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kruzvinicius&icon=2&color=4" alt="Visitor Count" />
-  </a>
-</p>
+![Visitors](https://visitcount.itsvg.in/api?id=kruzvinicius&icon=2&color=4&v=1)
