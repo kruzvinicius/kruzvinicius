@@ -1,10 +1,18 @@
 # 💫 About Me:
-Hi, I'm Vinicius! 🚀<br><br>I am a Backend Developer and Software Engineering student specializing in building scalable, data-driven systems. My core expertise lies in the Java/Spring ecosystem, where I focus on developing efficient APIs and robust server-side logic.<br><br>🤖 AI Integration: I am highly proficient in leveraging Artificial Intelligence to accelerate development workflows, optimize code quality, and integrate AI-driven features into backend architectures. I believe in combining traditional engineering excellence with modern AI capabilities to build smarter software.
 
+Hi, I'm **Vinicius**! 🚀
+
+I am a **Backend Developer** and **Software Engineering student** specializing in building scalable, data-driven systems. My core expertise lies in the **Java/Spring ecosystem**, where I focus on developing efficient APIs and robust server-side logic.
+
+🤖 **AI Integration:** I am highly proficient in leveraging Artificial Intelligence to accelerate development workflows, optimize code quality, and integrate AI-driven features into backend architectures. I believe in combining traditional engineering excellence with modern AI capabilities to build smarter software.
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinicius-rodrigues-cruz-832985292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kruzvinicius@proton.me) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-rodrigues-cruz-832985292/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kruzvinicius@proton.me)
 
+---
 ### 🛠 Tech Stack
 
 **Languages:**
@@ -31,15 +39,31 @@ Hi, I'm Vinicius! 🚀<br><br>I am a Backend Developer and Software Engineering 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kruzvinicius&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kruzvinicius&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzvinicius&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kruzvinicius&limit=5&theme=bear&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kruzvinicius&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kruzvinicius&theme=bear&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kruzvinicius&theme=bear&hide_border=false" alt="GitHub Streak" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruzvinicius&theme=bear&hide_border=false&layout=compact" alt="Top Languages" height="170px" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kruzvinicius&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=kruzvinicius&icon=2&color=4" alt="Visitor Count" />
+  </a>
+</p>
